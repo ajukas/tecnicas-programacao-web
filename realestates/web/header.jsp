@@ -1,11 +1,11 @@
-<div id="header">
-    <div id="header_div">
+<div class="header">
+    <div class="header_div">
         <!--<a href="index.jsp" title="Real Estate">-->
-        <div id="header_logo">
-            <div id="header_img">
+        <div class="header_logo">
+            <div class="header_img">
                 <img src="static/image/home.png" alt="Real Estates">
             </div>
-            <div id="header_name">
+            <div class="header_name">
                 <span>Real Estates</span>
             </div>
         </div>

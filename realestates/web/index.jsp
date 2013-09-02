@@ -7,10 +7,10 @@
         <title>Real Estates</title>
     </head>
     <body>
-        <div id="container">
+        <div class="container">
             <%@include file="header.jsp" %>
             <%@include file="menu.jsp" %>
-            <div id="content">
+            <div class="content">
                 Content goes here
             </div>
             <%@include file="footer.jsp" %>

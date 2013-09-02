@@ -1,4 +1,4 @@
-<div id="menu">
+<div class="menu">
     <b>Menu</b><br/>
     HTML<br/>
     CSS<br/>
